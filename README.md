@@ -28,7 +28,7 @@ A intenção é que você possa seguir esta trilha e, passo a passo, **adquirir 
 ## Sumário
 
 <ol>
-<li><a href="content/Introdução.md.md">Introdução</a></li>
+<li><a href="content/Introdução.md">Introdução</a></li>
 </ol>
 
 ## Contribuições
