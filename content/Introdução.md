@@ -33,6 +33,6 @@ E um ponto que sempre gera muita dúvida e discussão é: afinal, qual é o pape
 
 Separei um vídeo super legal do Diogo Becker sobre o tema:
 
-[Product Manager vs Product Owner: Entenda as Diferenças e Qual Caminho Seguir na Carreira de Produto | Diego Becker - Product Management](https://www.youtube.com/watch?v=4aJymvSdwfE&t=2s)
+[Product Manager vs Product Owner: Entenda as Diferenças e Qual Caminho Seguir na Carreira de Produto | Diogo Becker - Product Management](https://www.youtube.com/watch?v=4aJymvSdwfE&t=2s)
 
 Mas preciso ser sincera: no dia a dia das empresas, esses papéis se misturam bastante, e muitas vezes existe apenas um desses profissionais atuando. Então, não se assuste caso você veja isso acontecendo!
