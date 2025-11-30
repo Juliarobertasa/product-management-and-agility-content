@@ -3,7 +3,7 @@
 Bem-vindo(a)!  
 Este repositório foi criado com o propósito de **ser o lugar onde quem está começando na área de Produto encontra conteúdo confiável, organizado e gratuito**.
 
-Na minha trajetória como iniciante em produto e agilidade percebi que, diferente de outras áreas da tecnologia, **existe pouco material aprofundado e acessível**, e quem está entrando costuma ficar perdido entre conceitos, metodologias e expectativas do mercado.
+Na minha trajetória em Produto e Agilidade, percebi que, embora exista muito conteúdo sobre o tema na internet, não há cursos completos e gratuitos que ofereçam uma visão ampla de toda a área. Quem está começando, muitas vezes, fica perdido entre conceitos, metodologias e expectativas do mercado.
 
 Pensando nisso, criei esse repositório que reúne:
 
@@ -38,6 +38,6 @@ Se você conhece algum conteúdo gratuito, confiável e relevante, fique à vont
 
 ## Por que este projeto existe?
 
-Quando comecei minha trajetória em Produto e Agilidade, me deparei com um cenário bem diferente de outras áreas de tecnologia: poucos conteúdos, nenhuma ordem lógica e muita informação solta.  
-Por isso decidi criar o repositório que eu gostaria de ter encontrado lá atrás.  
-Este espaço existe para **guiar, apoiar e encorajar** quem está dando seus primeiros passos nesta área tão rica e desafiadora.
+Quando comecei minha trajetória em Produto e Agilidade, me deparei com um cenário bem diferente de outras áreas de tecnologia: conteúdos soltos e cursos caros. Por isso, decidi criar o repositório que eu gostaria de ter encontrado lá atrás. 
+
+Este espaço existe para tornar esse conhecimento mais acessível e democrático e, dessa forma, **guiar, apoiar e encorajar** quem está dando seus primeiros passos nesta área tão rica e desafiadora.
