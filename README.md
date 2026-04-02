@@ -30,6 +30,7 @@ A intenção é que você possa seguir esta trilha e, passo a passo, **adquirir 
 <ol>
 <li><a href="content/Introdução.md">Introdução</a></li>
 <li><a href="content/Agilidade.md">Agilidade</a></li>
+<li><a href="content/Podcasts, canais, artigos e mais.md">Conteúdos de produto</a></li>
 </ol>
 
 ## Contribuições
